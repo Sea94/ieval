@@ -18,7 +18,7 @@ The data from our experiment are available in the [ieval_data.json](https://gith
   - `emotion` (str): emotion label from the EmpatheticDialogues dataset [2] that was used for the grounding scenario
   - `prompt` (str): situation prompt from the EmpatheticDialogues dataset [2] that was used for the grounding scenario
   - `<COLOR>` (obj): color code of a chatbot; taken values: `Pink`, `Purple`, `Yellow`, `Green`
-    - `chat_log` (str): chat log between the worker and the chatbot with the assigned <COLOR> for the given emotional <VALENCE>
+    - `chat_log` (str): chat log between the worker and the chatbot with the assigned \<COLOR\> for the given emotional \<VALENCE\>
     - `P` (int): worker's Likert-type score assessing the statement: "The chatbot was polite throughout our conversation."
     - `^P` (int): worker's Likert-type score assessing the statement: "Some of the chatbot's responses were insulting."
     - `A` (int): worker's Likert-type score assessing the statement: "The chatbot was paying attention to what I was saying."
