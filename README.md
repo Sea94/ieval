@@ -55,3 +55,6 @@ Please cite [*] if you found the resources in this repository useful.
   year = {2022},
 }
 ```
+
+## License
+See the [LICENSE](LICENSE) file in the root repo folder for more details.
