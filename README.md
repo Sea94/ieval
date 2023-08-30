@@ -1,4 +1,5 @@
 # iEval
+[![DOI](https://zenodo.org/badge/515204661.svg)](https://zenodo.org/badge/latestdoi/515204661)
 
 This repo contains data of iEval: Interactive Evaluation Framework for Open-Domain Empathetic Chatbots.
 
